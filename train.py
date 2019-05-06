@@ -90,7 +90,7 @@ if __name__ == "__main__":
                     f2.flush()
 
                 if epoch > 20:
-                    LR = 0.01
+                    LR = 0.001
                 # 每训练完一个epoch测试一下准确率
                 print("Waiting Test!")
                 with torch.no_grad():
