@@ -1,0 +1,17 @@
+EPOCH=001,Accuracy= 49.000%
+EPOCH=002,Accuracy= 63.000%
+EPOCH=003,Accuracy= 67.000%
+EPOCH=004,Accuracy= 70.000%
+EPOCH=005,Accuracy= 72.000%
+EPOCH=006,Accuracy= 77.000%
+EPOCH=007,Accuracy= 80.000%
+EPOCH=008,Accuracy= 80.000%
+EPOCH=009,Accuracy= 80.000%
+EPOCH=010,Accuracy= 80.000%
+EPOCH=011,Accuracy= 78.000%
+EPOCH=012,Accuracy= 79.000%
+EPOCH=013,Accuracy= 79.000%
+EPOCH=014,Accuracy= 83.000%
+EPOCH=015,Accuracy= 82.000%
+EPOCH=016,Accuracy= 78.000%
+EPOCH=017,Accuracy= 81.000%
