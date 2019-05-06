@@ -109,7 +109,7 @@ if __name__ == "__main__":
                     acc = 100. * correct / total
                     # 将每次测试结果实时写入acc.txt文件中
                     print('Saving model......')
-                    torch.save(net.state_dict(), '%s/net_%03d.pth' % (args.outf, epoch + 1))
+                    # torch.save(net.state_dict(), '%s/net_%03d.pth' % (args.outf, epoch + 1))
                     f.write("EPOCH=%03d,Accuracy= %.3f%%" % (epoch + 1, acc))
                     f.write('\n')
                     f.flush()
